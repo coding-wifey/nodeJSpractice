@@ -18,6 +18,6 @@
   "homepage": "https://github.com/katerev/nodeJSpractice#readme",
   "dependencies": {
     "lodash": "^4.17.10",
-    "yargs": "^4.7.1"
+    "yargs": "^4.8.1"
   }
 }
